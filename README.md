@@ -1,2 +1,4 @@
 # launch-console
-Change added
+
+## Day 1 at QuestForge
+Today I joined my squad and made my first commit. Excited to start building.
